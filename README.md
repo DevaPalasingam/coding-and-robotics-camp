@@ -49,7 +49,7 @@ This is the main repo for running a Coding and Robotics Camp. The suggested time
 - How to plan presentation (20min)
   - Robotics
     - How do I want my robot to operate?
-    - If this happens, I want my robot to do **\_**
+    - If this happens, I want my robot to do
       - Make a list of all those functions
     - Build and test
       - Build one function and test
